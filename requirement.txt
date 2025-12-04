@@ -1,0 +1,5 @@
+transformers
+torch==2.9.1
+python-docx
+flask
+reportlab
